@@ -1,0 +1,27 @@
+{
+  "name": "generator-spfx",
+  "version": "0.0.1",
+  "description": "Yeoman Generator for SharePoint Projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewconnell/generator-sfpx.git"
+  },
+  "author": {
+    "name": "Andrew Connell",
+    "email": "me@andrewconnell",
+    "url": "http://www.andrewconnell.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewconnell/generator-spfx/issues"
+  },
+  "homepage": "https://github.com/andrewconnell/generator-spfx#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  },
+  "peerDependencies": {
+    "@microsoft/generator-sharepoint": ">=1.1.1",
+    "yo": ">=1.0.0"
+  }
+}
